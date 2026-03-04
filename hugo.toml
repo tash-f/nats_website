@@ -9,6 +9,10 @@ pagerSize = 20
 [markup.highlight]
 style = "github-dark"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   author = "Natacha Fort"
   info = "who knows"
